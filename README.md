@@ -1,6 +1,8 @@
 <h1 align="center">Codeigniter 3 Template Engine</h1>
 
-[![GitHub license](https://img.shields.io/github/license/agoenks29D/Codeigniter-3-Template-Engine?label=License&style=plastic)](https://github.com/agoenks29D/Codeigniter-3-Template-Engine/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/agoenks29D/Codeigniter-3-Template-Engine?label=License&style=plastic)](https://github.com/agoenks29D/Codeigniter-3-Template-Engine/blob/main/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/agoenks29D/Codeigniter-3-Template-Engine?style=plastic)](https://github.com/agoenks29D/Codeigniter-3-Template-Engine/issues)
+
+![Travis (.org) branch](https://img.shields.io/travis/twigphp/Twig/2.x?label=Twig%20Build&style=plastic)
 
 **Drivers** : 
 
