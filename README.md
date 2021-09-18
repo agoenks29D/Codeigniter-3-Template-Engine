@@ -37,6 +37,8 @@
 
 ### Zip file
 
+Download zip file [Template Engine](https://github.com/agoenks29D/Codeigniter-3-Template-Engine/releases/download/twig-2.x/Template_engine.zip)
+
 ### Github clone
 
 **Enter path of codeigniter libraries**
