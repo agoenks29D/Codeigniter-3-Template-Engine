@@ -1,4 +1,4 @@
-# Codeigniter 3 Template Engine
+<h1 align="center">Codeigniter 3 Template Engine</h1>
 
 [![GitHub license](https://img.shields.io/github/license/agoenks29D/Codeigniter-3-Template-Engine?label=License&style=plastic)](https://github.com/agoenks29D/Codeigniter-3-Template-Engine/blob/main/LICENSE)
 
